@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "cliente_id": 74274,
+    "detalles": "licencia python",
+    "estado": "aprobado"
+  },
+  {
+    "id": 2,
+    "cliente_id": 999999,
+    "detalles": "2 - Headset",
+    "estado": "pendiente"
+  },
+  {
+    "id": 3,
+    "cliente_id": 51287,
+    "detalles": "Licencia C++",
+    "estado": "pendiente"
+  }
+]

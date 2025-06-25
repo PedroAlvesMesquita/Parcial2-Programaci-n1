@@ -1,0 +1,12 @@
+[
+  {"id": 74272, "nombre": "saslog",       "email": "cliente@saslog.com"},
+  {"id": 53653, "nombre": "brasillog",    "email": "cliente@brasillog.com"},
+  {"id": 51287,  "nombre": "logargentina", "email": "cliente@logargentina.com"},
+  {"id": 56053, "nombre": "argenlog",     "email": "cliente@argenlog.com"},
+  {"id": 64263, "nombre": "brrequirement","email": "cliente@brrequirement.com"},
+  {"id": 13343, "nombre": "log123",       "email": "cliente@log123.com"},
+  {"id": 91206, "nombre": "program1",     "email": "cliente@program1.com"},
+  {"id": 78955, "nombre": "flalirio",     "email": "cliente@flalirio.com"},
+  {"id": 55549,  "nombre": "reachpic",     "email": "cliente@reachpic.com"},
+  {"id": 64497, "nombre": "lanceloop",    "email": "cliente@lanceloop.com"}
+]
